@@ -2,7 +2,7 @@
     Vow
 </h1>
 
-<div style="text-align: center;">
+<div align="center">
     <img alt="Version: " src="https://img.shields.io/badge/Version-0.1.0-white">
     <img alt="Licence: LGPL-2.1" src="https://img.shields.io/badge/License-LGPL--2.1-blue">
     <img alt="PHP: 8.5" src="https://img.shields.io/badge/PHP-8.5-green?logo=php">
@@ -10,7 +10,7 @@
     <img alt="Pest: 4.7.x" src="https://img.shields.io/badge/Pest-4.7.x-green">
 </div>
 
-<hr style="height: 1px;" />
+<hr height="1" />
 
 <p style="margin-top: 1em;">
     Vow is an unoffical fan-made journalling tool for the <a href="https://tomkinpress.com/pages/ironsworn-starforged">Ironsworn: Starforged</a> tabletop role-playing game, by Shawn Tomkin and published through <a href="https://tomkinpress.com/">Tomkin Press</a>.
