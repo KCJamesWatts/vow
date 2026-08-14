@@ -1,0 +1,23 @@
+{
+    "$schema": "https://www.schemastore.org/package.json",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "build": "vite build",
+        "dev": "vite",
+        "copy:dataforged-json": "mkdir -p resources/data && rm -rf resources/data/dataforged && cp -R node_modules/dataforged/dist/starforged resources/data/dataforged",
+        "copy:dataforged-icons": "mkdir -p public/img && cp -R node_modules/dataforged/img/vector public/img/dataforged",
+        "postinstall": "npm run copy:dataforged-json && npm run copy:dataforged-icons"
+    },
+    "devDependencies": {
+        "concurrently": "^10.0.3",
+        "laravel-vite-plugin": "^3.1",
+        "vite": "^8.0.0"
+    },
+    "optionalDependencies": {
+        "@laravel/multiplex": "^0.4.1"
+    },
+    "dependencies": {
+        "dataforged": "^1.5.3"
+    }
+}
