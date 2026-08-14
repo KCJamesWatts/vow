@@ -3,10 +3,11 @@
 </h1>
 
 <div style="text-align: center;">
+    <img alt="Version: " src="https://img.shields.io/badge/Version-0.1.0-white">
     <img alt="Licence: LGPL-2.1" src="https://img.shields.io/badge/License-LGPL--2.1-blue">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PHP-8.5-green?logo=php">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-13.x-green?logo=laravel">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Pest-4.7.x-green">
+    <img alt="PHP: 8.5" src="https://img.shields.io/badge/PHP-8.5-green?logo=php">
+    <img alt="Laravel: 13.x" src="https://img.shields.io/badge/Laravel-13.x-green?logo=laravel">
+    <img alt="Pest: 4.7.x" src="https://img.shields.io/badge/Pest-4.7.x-green">
 </div>
 
 ---
