@@ -10,12 +10,14 @@
     <img alt="Pest: 4.7.x" src="https://img.shields.io/badge/Pest-4.7.x-green">
 </div>
 
----
+<hr style="height: 1px;" />
 
 <p style="margin-top: 1em;">
     Vow is an unoffical fan-made journalling tool for the <a href="https://tomkinpress.com/pages/ironsworn-starforged">Ironsworn: Starforged</a> tabletop role-playing game, by Shawn Tomkin and published through <a href="https://tomkinpress.com/">Tomkin Press</a>.
 </p>
 
-## Special Thanks
+<h3>Special Thanks</h3>
 
-A huge thank you has to be made to <a href="https://ko-fi.com/r_sek">rsek</a>, who created the `rsek/dataforge` package that fuels the game data for this web application.
+<p>
+    A huge thank you has to be made to <a href="https://ko-fi.com/r_sek">rsek</a>, who created the `rsek/dataforge` package that fuels the game data for this web application.
+</p>
